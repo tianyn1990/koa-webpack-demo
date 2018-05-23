@@ -1,2 +1,2 @@
-# webpack-koa-demo
-webpack x koa
+# koa-webpack-demo
+koa x webpack
